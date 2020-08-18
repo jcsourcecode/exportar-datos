@@ -1,0 +1,6 @@
+C:\Users\JC Source Code\source\repos\Exportar Datos\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\JC Source Code\source\repos\Exportar Datos\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\JC Source Code\source\repos\Exportar Datos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\JC Source Code\source\repos\Exportar Datos\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\JC Source Code\source\repos\Exportar Datos\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\JC Source Code\source\repos\Exportar Datos\CapaDatos\obj\Debug\CapaDatos.pdb
